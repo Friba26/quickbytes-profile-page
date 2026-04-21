@@ -1,4 +1,6 @@
-# QuickBytes User Profile Page
+# QuickBytes User Profile Page and Figma UI Design link:
+
+https://www.figma.com/design/xw2Dd8iOO3rXfdhqreYdlZ/UNT-Quick-Bytes?node-id=0-1&p=f&t=Cy5C78GwKInY8XY4-0
 
 This project is part of the QuickBytes food discovery mobile app.
 
